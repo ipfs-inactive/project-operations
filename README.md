@@ -13,3 +13,15 @@ The IPFS Project Working Group Community serves as the point of coordination for
 See our current work-in-progress through our [quarterly OKRs](https://docs.google.com/spreadsheets/d/139lROP7-Ee4M4S7A_IO4iIgSgugYm7dct620LYnalII/edit#gid=1562851442)
 
 This group meets every Tuesday at 5pm UTC. The call is listed on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC).
+
+## Team
+In alphabetical order we are:
+
+- @diasdavid - Project WG captain and IPFS lead maintainer
+- @meiqimichelle - Project WG member and user-centered design expert
+- @momack2 - Project WG member and product management specialist
+- @olizilla - Project WG member and GUI team captain  
+- *[all IPFS wg captains]* - Advisors and key stakeholders
+
+**and you...**
+
