@@ -1,6 +1,6 @@
 # IPFS Project Working Group
 
-The IPFS Project Working Group Community serves as the point of coordination for the IPFS Organization.
+The IPFS Project Working Group serves as the point of coordination for the IPFS Organization.
  
  **Responsibilities include**:
  
