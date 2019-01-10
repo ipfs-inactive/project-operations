@@ -22,6 +22,9 @@ https://waffle.io/ipfs/project
 
 This group **meets every Tuesday at 5pm UTC**. The call is listed on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC).
 
+- [Notes Document](https://docs.google.com/document/d/1IZ8tyWKnuXKTMbYaZO_8FVUKJ1kxA4imgPaTBhXXbAc/edit#heading=h.7cn0h96e19m)
+- [Recordings](https://www.youtube.com/playlist?list=PLuhRWgmPaHtSIdimfSWWjQHLMbsScghYB)
+
 ## Team
 
 In alphabetical order we are:
