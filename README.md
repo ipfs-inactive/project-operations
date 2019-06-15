@@ -30,9 +30,9 @@ This group **meets every Tuesday at 5pm UTC**. The call is listed on the [IPFS C
 In alphabetical order we are:
 
 - [Arkadiy Kukarkin](https://github.com/parkan) - IPFS Collaborations Manager
-- [David Dias](https://github.com/diasdavid) - Project WG captain and IPFS lead maintainer
+- [David Dias](https://github.com/diasdavid) - Project WG member and IPFS lead maintainer
 - [Michelle Hertzfeld](https://github.com/meiqimichelle) - Project WG member and user-centered design expert
-- [Molly Mackinlay](https://github.com/momack2) - Project WG member and product management specialist
+- [Molly Mackinlay](https://github.com/momack2) - Project WG Captain and Project Lead
 - [Oliver Evans](https://github.com/olizilla) - Project WG member and GUI team captain  
 - *[all IPFS wg captains]* - Advisors and key stakeholders
 
